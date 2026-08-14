@@ -43,6 +43,11 @@ public class VariableTest {
         /*int discount = 20;
         System.out.printf("Yours discount is %d%%.", discount);*/
 
+//Test 4
+        /*System.out.printf("I have %d dollars right now", 50 );*/
+        /*System.out.printf("Today the class starts at half past %d", 15);*/
+        /*System.out.printf("Hello my name's %s, I'm %d.","MF" , 25);*/
+
 
 
 
